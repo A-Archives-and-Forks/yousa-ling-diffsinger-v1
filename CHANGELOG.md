@@ -4,7 +4,7 @@
 
 2025/08/03
  - 该版本回滚参数设定到了此前较为稳定的1.5版本，其他设定对齐到了目前的最新分支
- - 该版本可以使用目前的pre-release版OpenUTAU使用
+ - 该版本可以使用目前的pre-release版OpenUTAU
 
 ## V1.6.1
 
@@ -258,4 +258,5 @@
 [6]: https://github.com/haru0l/OpenUtau/releases
 [7]: https://github.com/CNChTu/DiffSinger
 [8]: https://github.com/openvpi/DiffSinger/pull/191
+
 
